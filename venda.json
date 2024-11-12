@@ -1,0 +1,16 @@
+{
+    "dataVenda": "20/11/20024",
+    "produtos": [
+        {
+            "nome": "camisa",
+            "preco": 60.0,
+            "quantidade": 8
+        },
+        {
+            "nome": "tenis",
+            "preco": 540.0,
+            "quantidade": 3
+        }
+    ],
+    "total": 2100.0
+}
